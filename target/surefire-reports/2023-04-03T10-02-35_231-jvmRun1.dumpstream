@@ -1,0 +1,11 @@
+# Created at 2023-04-03T10:02:35.683
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Configuring TestNG with: TestNG60Configurator'.
+
+# Created at 2023-04-03T10:02:35.717
+failed to discover tests org.testng.TestNGException: 
+The test(s) <[]> cannot be found.
+
+# Created at 2023-04-03T10:02:35.737
+org.testng.TestNGException: 
+The test(s) <[]> cannot be found.
+
